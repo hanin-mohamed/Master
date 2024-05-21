@@ -24,7 +24,6 @@ public class Lambda2par {
 
         Lambda2par lambda = new Lambda2par();
 
-
         System.out.println("Addition is "+lambda.operation(4,2,add));
         System.out.println("Multiplication is "+lambda.operation(5,3,mul));
         System.out.println("Min is "+lambda.operation(99,9,min));

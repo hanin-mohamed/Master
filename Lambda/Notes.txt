@@ -1,0 +1,12 @@
+The body of a lambda expression can contain zero, one,
+ or more statements.
+
+
+When there is a single statement curly brackets are not mandatory and 
+the return type of the anonymous function is the same as that of the body expression.
+
+
+When there is more than one statement, 
+then these must be enclosed in curly brackets (a code block) and 
+the return type of the anonymous function is the same as 
+the type of the value returned within the code block, or void if nothing is returned.
