@@ -58,7 +58,7 @@ public class ArrayListt {
         //////////// sort class in ArrayList ->Student
         ArrayList<Student> Slist=new ArrayList<Student>();
         Student student1=new Student(100,"Haneen",21);
-        Student student2=new Student(101,"Amged",22);
+        Student student2=new Student(101,"Alaa",22);
         Student student3=new Student(102,"Mohamed",23);
         Slist.add(student1);
         Slist.add(student2);
@@ -88,7 +88,7 @@ public class ArrayListt {
         ///////Book in ArrayList
         List<Book> book=new ArrayList<Book>();
         Book b1=new Book(1,20,"Let us C","Haneen","Mohamed");
-        Book b2=new Book(2,10,"I Love U","Haneen","Amged");
+        Book b2=new Book(2,10,"I Love Programming","Haneen","Amged");
         Book b3=new Book(3,5,"In love With Java","Ahmed","Haneen");
         book.add(b1);
         book.add(b2);

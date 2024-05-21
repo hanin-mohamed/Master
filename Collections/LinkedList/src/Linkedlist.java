@@ -40,7 +40,7 @@ public class Linkedlist {
         ////////////////
         List<Book> books=new LinkedList<Book>();
         Book b1=new Book(1,20,"Let us C","Haneen","Mohamed");
-        Book b2=new Book(2,10,"I Love U","Haneen","Amged");
+        Book b2=new Book(2,10,"I Love Programming","Haneen","Amged");
         Book b3=new Book(3,5,"In love With Java","Ahmed","Haneen");
         books.add(b1);
         books.add(b2);
