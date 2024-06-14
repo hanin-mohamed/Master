@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collections.iml" filepath="$PROJECT_DIR$/.idea/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumSet/EnumSet.iml" filepath="$PROJECT_DIR$/EnumSet/EnumSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTableTree/HashTableTree.iml" filepath="$PROJECT_DIR$/HashTableTree/HashTableTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Properties/Properties.iml" filepath="$PROJECT_DIR$/Properties/Properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/TreeSet/TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator/comparator.iml" filepath="$PROJECT_DIR$/comparator/comparator.iml" />
+    </modules>
+  </component>
+</project>
