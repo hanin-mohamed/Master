@@ -1,0 +1,5 @@
+Compiler (javac) : Java code -> compiler -> (bytecode)
+bytecode: sequence of instructions of fixed length (one byte),
+          followed by operands if necessary
+          ex:load ,store bipush...
+JVM : bytecode -> JVM -> output
