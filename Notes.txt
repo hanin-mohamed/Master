@@ -22,11 +22,13 @@ constructor : no return datatype , initialize the object state
               when can be private?singletone(one static instance can created form class)
                                   factory static method , unitity class-> only contain static methods
 
+
 super , this ? 
               this:Keyword -> refer to the current instance of class
 
               super:keyword -> refer to superclass of current instance
-                               call superclass constructor from subclass constructor (METHOD)
+                               call superclass constructor (Default) into subclass constructor (METHOD)
+                               
 
 
 Stack , Heap ?
@@ -57,23 +59,30 @@ composition, aggregation ?
                          the contained object can exist independently of the containing object
                          like(University & department) 
 
-system .out . println()? 
-                        out: static member of class "system",refers to ("stdout") stream
-                             object of class "PrintStream"
+System.out.println()? ->print in the Console -> 
+                       *java 8 ->stream ,lambda ,static&default methods in interface
+                        Java.lang package -> System->PrintStream -> static variables like(out),methodslike (println())
+                    
 concepts of oop?
                  Inhertance:- Allows subclasses to inherit behaviors and 
                             properties from another class (superclass).
                             - Enables code reuse and extension without rewriting existing code.
                             
-                 Abstraction:- Hides complex implementation details and shows only essential features of an object
-                             - Methods without implementation                             
+                 Abstraction:-abstract class : at least one abstract method 
+                              -interface: all methods are abstract by default but befor Java-8 
+                                          default & static methods with implementation
+                             - Hides complex implementation details and shows only essential features of an object
+                             - Methods without implementation
 
-
-
-                 Polymorphism:- Enables methods to be called on objects of different classes
+                 Polymorphism:- override ->methods in subclass with a different implementation
+                                & Overloading ->methods with the same name but differnt parameters type or number
+                              - Enables methods to be called on objects of different classes
                               - executing different behaviors based on the object type
 
-                 Encapsulation:- direct access to some of an object's components and protects its internal state.
+                 Encapsulation:- hide data 
+                               - direct access to some of an object's components and protects its internal state.
                                - private to variables , public to classes (setters & getters)
-                               - 
+                                
                                  
+Exception Handling?..
+Exception & error? 
