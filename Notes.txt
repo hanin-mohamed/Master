@@ -19,7 +19,7 @@ static -> method : can't be overridden       -> variable : can't be reintialize
 constructor : no return datatype , initialize the object state
               constructor name== class name 
               can't be marked as final        
-              when can be private?singletone(one static instance can created form class)
+              when can be private?singleton(one static instance can created form class)
                                   factory static method , unitity class-> only contain static methods
 
 
@@ -84,5 +84,20 @@ concepts of oop?
                                - private to variables , public to classes (setters & getters)
                                 
                                  
-Exception Handling?..
+Exception Handling?...
+              - Checked exceptions (Compile-time exceptions)
+                     is checked (notified) by the compiler at compilation-time,also called as compile time exceptions.
+                     - cannot simply be ignored, the programmer should take care of (handle) these exceptions.  
+              
 Exception & error? 
+             error: serious and usually irrecoverable conditions like a library incompatibility, infinite recursion,
+                     or memory leaks
+
+
+Design pattern: 
+                -creational: singleton ,factory method  
+                -structural: adaptor , proxy , facade                -behavioral: observer , strategy ,command
+
+collection/s : 
+    -  array , arraylist , Linkedlist .
+    -  list & set & map 
