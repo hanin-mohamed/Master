@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Lambda_Stream {
     public static void main(String[] args) {
@@ -48,12 +49,20 @@ public class Lambda_Stream {
         itemList.add(new Item(3,"C++"));
         itemList.add(new Item(4,"JavaScript"));
         itemList.add(new Item(5,"C#"));
-
+        //List to stream then use stream
+        Stream<Item> str = itemList.stream();
         List<String>name=
+                str.map(item->item.getName())
+                        .collect(Collectors.toList());
+        System.out.println("Item Names is:  "+name);
+
+        //List to stream in one operation
+        List<String>name1=
                 itemList.stream()
                 .map(item->item.getName())
                 .collect(Collectors.toList());
-        System.out.println("Item Names is:  "+name);
+        System.out.println("Item Names is:  "+name1);
+
 
         Map<Integer,String>Details=
                 itemList.stream()

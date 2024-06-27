@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Terminal {
     public static void main(String[] args) {
@@ -21,6 +22,15 @@ public class Terminal {
         List<String> name= Arrays.asList("Yazed","Ahmed","Haiam","Haneen","Elzoz","Mohamed","Hanona");
         int count= (int) name.stream().count();
         System.out.println("Count is "+count);
+
+
+        //anyMatch
+        Stream<Integer>stream =Stream.of(20,25,30,75,5,65);
+        boolean oneIsEven =stream.anyMatch(i->i%2==0); //true
+        //AllMatch
+        boolean allAreEven =stream.allMatch(i->i%2==0); //false
+        //noneMatch
+        boolean allAreLessThan80 =stream.noneMatch(i->i>80); //true
 
     }
 }
