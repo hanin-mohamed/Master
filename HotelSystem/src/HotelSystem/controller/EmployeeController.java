@@ -26,9 +26,11 @@ public class EmployeeController {
         double sal= sc.nextDouble();
         System.out.println("Enter new Rule :");
         String rule =sc.nextLine();
-
-
-
+        Employee emp =employees.get(id);
+        emp.setEmpSalary(sal);
+        emp.setEmpJob(rule);
+        employees.set(id,emp);
+        System.out.println("Employee Updated Successfully");
     }
     public void viewEmployees(ArrayList<Employee> employees){
         for (Employee emp : employees)

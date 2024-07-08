@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+
 public class StreamsExample {
 
     public static void main(final String[] args) {
@@ -28,19 +32,47 @@ public class StreamsExample {
             .forEach(System.out::println);
 
         banner("Active authors");
-        // TODO With functional interfaces declared
+        Predicate<Author> activeAuthors = new Predicate<Author>() {
+            @Override
+            public boolean test(Author author) {
+                return author.active;
+            }
+        };
+        authors
+                .stream()
+                .filter(activeAuthors)
+                .forEach(System.out::println);
 
         banner("Active authors - lambda");
-        // TODO With functional interfaces used directly
+        authors
+                .stream()
+                .filter(a -> a.active)
+                .forEach(System.out::println);
 
         banner("Active books for all authors");
-        // TODO With functional interfaces declared
+        Function<Author,List<Book>> activeBooks = new Function<Author, List<Book>>(){
+            @Override
+            public List<Book> apply(Author author) {
+                return author.books.stream()
+                        .filter(book ->book.published)
+                        .collect(Collectors.toList());
+            }
+        };
+        authors
+        .stream()
+        .map(activeBooks)
+        .flatMap(List::stream)
+        .forEach(System.out::println);
 
         banner("Active books for all authors - lambda");
-        // TODO With functional interfaces used directly
+        authors
+                .stream()
+                .flatMap(author -> author.books.stream()
+                .filter(book -> book.published))
+                .forEach(System.out::println);
 
         banner("Average price for all books in the library");
-        // TODO With functional interfaces declared
+
 
         banner("Average price for all books in the library - lambda");
         // TODO With functional interfaces used directly
