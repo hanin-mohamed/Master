@@ -14,7 +14,6 @@ public class Main {
         };
         test.testMethod();
 
-
         showable showable;
         showable=new showable(){
             @Override
