@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0f21341-eee0-42b2-b12f-8e676b2843af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HotelSystem/src/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basics/MyJava/src/2dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HotelSystem/src/HotelSystem/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../HotelSystem/src/HotelSystem/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (5).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (6).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (7).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot (8).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Exception-Handling/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/MyJava/src/twodArray.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2iOuR4lE2I23PsY9yt4Gbp1kzfp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Java/JavaMaster/Collections/List",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0f21341-eee0-42b2-b12f-8e676b2843af" name="Changes" comment="" />
+      <created>1719373932854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719373932854</updated>
+      <workItem from="1719373933921" duration="742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c1fddfb-4079-43f6-b6bf-a7e1302c1ae1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Liskov/Liskov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/Open-Closed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/OpenClosed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/src/ShapePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open-Closed/OpenClosed/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iJ1Y0GbSUfAN6N0j5GFJJ0UfZO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c1fddfb-4079-43f6-b6bf-a7e1302c1ae1" name="Changes" comment="" />
+      <created>1719193910746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719193910746</updated>
+      <workItem from="1719193911761" duration="543000" />
+      <workItem from="1719194479092" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
