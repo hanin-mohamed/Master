@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a09f584a-5c85-4188-ad6f-cb74662e118a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/src/main/java/org/example/teest/Controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/src/main/java/org/example/teest/TeestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestSpring-FirstAPI/src/test/java/org/example/teest/TeestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/Haneen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/src/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,27 +44,27 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.App.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/My Journy/Java/JavaMaster/Java SE/ModelMapper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/My Journy/Java/JavaMaster/Java SE/ModelMapper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,6 +85,7 @@
       <workItem from="1721222628910" duration="60000" />
       <workItem from="1721223955315" duration="28000" />
       <workItem from="1722023559778" duration="1968000" />
+      <workItem from="1722027889079" duration="773000" />
     </task>
     <servers />
   </component>
