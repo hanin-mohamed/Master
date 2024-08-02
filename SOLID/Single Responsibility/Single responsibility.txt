@@ -1,13 +1,0 @@
-class : one responsibility -> one reason for change
-
- Advantages:
-    - Testing : less functionalities -> less testcases
-    - Lower coupling : if class is changed -> don't need to make 
-                       big changes on others 
-    -Easier to understand
-    - organized    - Divide and conquer ->divide big facility to small facilities       help to find bug easily and prevent bugs affecting on other facilities.
-
-     
-
-
-

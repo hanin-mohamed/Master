@@ -1,11 +1,0 @@
-Coupling : refers to the interaction between different physical phenomena (classes)
-          high/tight coupling , loss coupling (much better)
-
-
-SOLID :
-      S: Single responsibility      O: Open-Closed
-      L: Liskov substitution
-      I: Interface segregation
-      D: Dependency inversion
-
-      

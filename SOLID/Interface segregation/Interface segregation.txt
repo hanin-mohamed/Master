@@ -1,4 +1,0 @@
-For group of features you use -> interface 
- عندي نوعين عربيات مشتركين ف حاجات معينة وفي نوع زيادة ف صفات تانية 
-  للحاجات الزيادة  interface للنوع الاول (المشتركة) والتاني interface ف بعمل 
-والنوع التتاني هعمله implements  لل  2interface 

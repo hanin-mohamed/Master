@@ -1,5 +1,0 @@
-Module can add to the existing content without modifying it
-   ex: I can cut -add print-> I can cut and print ✅
-                           -> I can print ❌
-
-Apply abstract & polymorphism 
