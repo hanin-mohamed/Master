@@ -1,0 +1,3 @@
+subclass can do what superclass do
+      -> extends it's methods(behaviors) from parent
+         & include it's own methods.
