@@ -1,4 +1,4 @@
-package com.liv2code.web.jdbc;
+package com.luv2code.web.jdbc;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -64,5 +64,5 @@ public class StudentDbUtil {
 			ex.printStackTrace();
 		}
 	
-
+	}
 }
