@@ -1,6 +1,7 @@
 package com.luv2code.web.jdbc;
 
 import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -65,4 +66,24 @@ public class StudentDbUtil {
 		}
 	
 	}
+	public void addStudent(Student student) throws SQLException {
+	Connection con =null;
+	PreparedStatement stmt=null;
+	try {
+		con=dataSource.getConnection();
+		String sql ="insert into student (first_name,last_name,email) values (?,?,?)";
+		stmt = con.prepareStatement(sql);
+		stmt.setString(1, student.getFirstName());
+		stmt.setString(2, student.getLastName());
+		stmt.setString(3, student.getEmail());
+		stmt.execute();
+	}
+	finally{
+		close(con,stmt,null);
+		
+	}
+	
+	
+	}
+	
 }
