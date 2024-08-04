@@ -85,5 +85,21 @@ public class StudentDbUtil {
 	
 	
 	}
+	public Student getStudents(String studentId) {
+	Student student =null;
+	Connection con=null;
+	PreparedStatement stmt = null;
+	ResultSet rslt=null;
+	
+	try {
+		
+		
+		
+	return student;	
+	}
+	finally {
+		
+	}
+	}
 	
 }
