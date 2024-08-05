@@ -1,12 +1,5 @@
 package easy;
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-}
+
 
 public class DeleteDupsLinkedList {
     public ListNode deleteDuplicates(ListNode head) {
@@ -19,7 +12,7 @@ public class DeleteDupsLinkedList {
             } else {
                 current = current.next;
             }
-         }
+        }
         return head;
     }
 
