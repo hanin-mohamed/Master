@@ -119,4 +119,22 @@ public class StudentDbUtil {
             close(conn, stmt, null);
         }
     }
+
+	public void deleteStudent(String theStudentId) throws Exception {
+		  Connection conn = null;
+	        PreparedStatement stmt = null;
+
+	        try {
+	        	int studentId = Integer.parseInt(theStudentId);
+	            conn = dataSource.getConnection();
+	            String sql = "DELETE from student WHERE id=?";
+	            stmt = conn.prepareStatement(sql);
+	            stmt.setInt(1,studentId);
+	            stmt.execute();
+	           
+	        } 
+	        finally {
+	            close(conn, stmt, null);
+	        }
+	}
 }
