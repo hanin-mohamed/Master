@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+F:\My Journy\JavaMaster\Java EE\Servlets\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-2672304459.index
-3199061044.index
-1865797976.index
