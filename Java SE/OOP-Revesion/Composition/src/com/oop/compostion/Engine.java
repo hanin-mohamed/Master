@@ -1,9 +1,9 @@
-package com.oop.composeition;
+package com.oop.compostion;
 
 public class Engine {
+
     private String type;
     private String power;
-
 
     public Engine() {
     }

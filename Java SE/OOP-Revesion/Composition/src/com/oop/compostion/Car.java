@@ -1,4 +1,4 @@
-package com.oop.composeition;
+package com.oop.compostion;
 
 public class Car {
 
@@ -6,13 +6,17 @@ public class Car {
     private String color;
     private int doors;
 
+    // a car has an engine --> Composition (relation between 2 objects)
+    private Engine engine;
+
     public Car() {
     }
 
-    public Car(String model, String color, int doors) {
+    public Car(String model, String color, int doors, Engine engine) {
         this.model = model;
         this.color = color;
         this.doors = doors;
+        this.engine = engine;
     }
 
     public String getModel() {
@@ -37,5 +41,13 @@ public class Car {
 
     public void setDoors(int doors) {
         this.doors = doors;
+    }
+
+    public Engine getEngine() {
+        return engine;
+    }
+
+    public void setEngine(Engine engine) {
+        this.engine = engine;
     }
 }
