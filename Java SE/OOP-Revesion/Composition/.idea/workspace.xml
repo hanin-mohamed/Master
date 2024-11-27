@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd70e3ec-e708-4510-8a43-2a6d77922528" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/oop/compostion/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oop/compostion/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inhertance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oop/composeition/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oop/composeition/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oop/composeition/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/oop/abstraction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +33,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oDOXaXALbWZjm1czwMeQ7ozyUq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,6 +51,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Learning/REPOs/Master/Java SE/OOP-Revesion/Abstraction",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +68,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730400721785</updated>
-      <workItem from="1730400723165" duration="885000" />
+      <workItem from="1730400723165" duration="1534000" />
+      <workItem from="1730403180033" duration="49000" />
+      <workItem from="1730404181593" duration="82000" />
     </task>
     <servers />
   </component>
